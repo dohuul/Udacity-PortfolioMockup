@@ -1,0 +1,28 @@
+* {
+    /*
+    border-style: solid;
+    border-color: red;
+    */
+    box-sizing: border-box;
+}
+
+.container {
+
+    max-width: 800px;
+}
+
+.logo {
+    max-height: 100px;
+}
+
+.feature-work-title {
+    color: grey;
+}
+
+.header-title {
+    font-weight: lighter;
+}
+
+p {
+        font-size: 10px;
+}
